@@ -18,10 +18,10 @@ This is a repository for data collected in the investigation of UUIDs for a stan
 - ANSI Quality Information Framework Standard v3.0, Dimensional Metrology Standards Consortium
 - Recommended Practices for Persistent IDs for Design Iteration and Downstream Exchange, Release 1.00, November 28, 2023 (https://www.mbx-if.de/documents/rec_pracs_PID_v1.pdf)
 
-## CODEMETA
+## Related NIST Projects
 - [Manufacturing](https://www.nist.gov/manufacturing)
-- [Metrology](https://www.nist.gov/metrology)
-- [Standards](https://www.nist.gov/standards)
+- [Smart Manufacturing](https://www.nist.gov/smart-manufacturing)
+- [Standards](https://www.nist.gov/documentary-standards)
 
 <!-- References -->
 
