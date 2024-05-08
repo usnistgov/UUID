@@ -1,38 +1,27 @@
 ## Purpose
-This is a repository for data collected in the investigation of GUIDs for a standards-based digital thread of product data.
+This is a repository for data collected in the investigation of UUIDs for a standards-based digital thread of product data.
 
 ## Contact Information
-   - PI name, NIST OU, Division, and Group names
-   - Contact email address at NIST
-   - Details of mailing lists, chatrooms, and discussion forums,
-     where applicable
+   - Rosemary Astheimer, NIST Communications Technology Laboratory, Smart Connected Manufacturing Systems
+   - rosemary.astheimer@nist.gov
+     
+   - Allison Barnard-Feeney, NIST Communications Technology Laboratory, Smart Connected Manufacturing Systems
+   - allison.barnardfeeney@nist.gov
 
 ## Related Material
-   - URL for associated project on the NIST website or other Department
-     of Commerce page, if available
    - Get Grant Information
-   - 
+   - URL for project
+
 ## Referenced Standards
 
 - ISO 10303 Industrial automation systems and integration -- Product data presentation and exchange
 - ANSI Quality Information Framework Standard v3.0, Dimensional Metrology Standards Consortium
 - Recommended Practices for Persistent IDs for Design Iteration and Downstream Exchange, Release 1.00, November 28, 2023 (https://www.mbx-if.de/documents/rec_pracs_PID_v1.pdf)
 
-
 ## CODEMETA
-
-Project metadata is captured in `CODEMETA.yaml`, used by the NIST
-Software Portal to sort your work under the appropriate thematic
-homepage. ***Please update this file*** with the appropriate
-"theme" and "category" for your code/data/software. The Tier 1
-themes are:
-
 - [Manufacturing](https://www.nist.gov/manufacturing)
 - [Metrology](https://www.nist.gov/metrology)
 - [Standards](https://www.nist.gov/standards)
-
----
-
 
 <!-- References -->
 
