@@ -13,10 +13,9 @@ This is a repository for data collected in the investigation of UUIDs for a stan
    - URL for project
 
 ## Referenced Standards
-
 - ISO 10303 Industrial automation systems and integration -- Product data presentation and exchange
 - ANSI Quality Information Framework Standard v3.0, Dimensional Metrology Standards Consortium
-- Recommended Practices for Persistent IDs for Design Iteration and Downstream Exchange, Release 1.00, November 28, 2023 (https://www.mbx-if.de/documents/rec_pracs_PID_v1.pdf)
+- [Recommended Practices for Persistent IDs for Design Iteration and Downstream Exchange, Release 1.00, November 28, 2023](https://www.mbx-if.de/documents/rec_pracs_PID_v1.pdf)
 
 ## Related NIST Projects
 - [Manufacturing](https://www.nist.gov/manufacturing)
