@@ -128,7 +128,7 @@ themes:
   #     - Precision medicine
   #     - Regenerative medicine
   #
-  # - Information Technology
+   - Information Technology
   #     - Artificial intelligence
   #     - Biometrics
   #     - Cloud computing and virtualization
@@ -142,16 +142,16 @@ themes:
   #         - Cryptography
   #         - Cybersecurity Education and Workforce Development
   #         - Risk management
-  #     - Data and informatics
+       - Data and informatics
   #         - Human language technology
-  #         - Information retrieval
+           - Information retrieval
   #         - Natural language processing
   #     - Data entry
   #     - Federal information standards (FIPS)
   #     - Health IT
   #     - Identity and access management
   #     - Internet of Things (IoT)
-  #     - Interoperability testing
+       - Interoperability testing
   #     - Mobile
   #     - Networking
   #         - Mobile and Wireless Networking
@@ -175,19 +175,19 @@ themes:
   #
   # - Infrastructure
   #
-  # - Manufacturing
+   - Manufacturing
   #     - Additive manufacturing
   #     - Biomanufacturing
-  #     - Factory communications
+       - Factory communications
   #     - Factory operations planning and control
-  #     - Interoperability in manufacturing
+       - Interoperability in manufacturing
   #     - Machining
   #     - Manufacturing systems design and analysis
   #     - Monitoring, diagnostics and prognostics
-  #     - Process improvement
+       - Process improvement
   #     - Process measurement and control
-  #     - Product data
-  #     - Quality assurance
+       - Product data
+       - Quality assurance
   #     - Robotics in manufacturing
   #         - Agility and adaptability
   #         - Collaborative robots
@@ -196,10 +196,10 @@ themes:
   #         - Mobile manipulators
   #         - Navigation, actuation and control
   #         - Sensing and perception
-  #     - Supply chain
+       - Supply chain
   #     - Sustainable manufacturing
   #     - Systems engineering
-  #     - Systems integration
+       - Systems integration
   #     - Technology commercialization
   #
   # - Materials
@@ -225,10 +225,10 @@ themes:
   #     - Statistical analysis
   #     - Uncertainty quantification
   #
-  # - Metrology
+   - Metrology
   #     - Acoustic/vibration metrology
   #     - Amount of substance
-  #     - Dimensional metrology
+       - Dimensional metrology
   #     - Electrical and electromagnetic metrology
   #     - Flow metrology and rheology
   #     - Force metrology
@@ -300,13 +300,13 @@ themes:
   #     - Resilient materials
   #     - Windstorm impact reduction
   #
-  # - Standards
+   - Standards
   #     - Accreditation
   #     - Calibration Services
   #     - Conformity assessment
-  #     - Documentary standards
+       - Documentary standards
   #     - Frameworks
-  #     - Reference data
+       - Reference data
   #     - Reference instruments
   #     - Reference materials
   #     - Standards education
