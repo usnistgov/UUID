@@ -1,5 +1,5 @@
 ## Purpose
-This is a repository for data collected in the investigation of UUIDs for a standards-based digital thread of product data.
+This is a repository for data collected in the investigation of UUIDs for a standards-based digital thread of product data. The publication is available free from charge at [https://doi.org/10.6028/NIST.AMS.300-12](https://doi.org/10.6028/NIST.AMS.300-12)
 
 ## Contact Information
 - Rosemary Astheimer, NIST Communications Technology Laboratory, Smart Connected Manufacturing Systems rosemary.astheimer@nist.gov
