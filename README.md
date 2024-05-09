@@ -3,7 +3,7 @@ This is a repository for data collected in the investigation of UUIDs for a stan
 
 ## Contact Information
 - Rosemary Astheimer, NIST Communications Technology Laboratory, Smart Connected Manufacturing Systems rosemary.astheimer@nist.gov
-- Allison Barnard-Feeney, NIST Communications Technology Laboratory, Smart Connected Manufacturing Systems allison.barnardfeeney@nist.gov
+- Allison Barnard Feeney, NIST Communications Technology Laboratory, Smart Connected Manufacturing Systems allison.barnardfeeney@nist.gov
 
 ## Related Material
 - Thurman TR, Trainer AG, Barnard Feeney A, Hardwick M, Hedlind M, Astheimer, R (2024) Recommendations for Universally Unique Identifiers in Product Data Standards. (National Institute of Standards and Technology, Gaithersburg, MD), NIST AMS 300-12.[https://doi.org/10.6028/NIST.AMS.300-12](https://doi.org/10.6028/NIST.AMS.300-12)
