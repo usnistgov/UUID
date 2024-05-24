@@ -6,18 +6,18 @@ This is a repository for data collected in the investigation of UUIDs for a stan
 - Allison Barnard Feeney, NIST Communications Technology Laboratory, Smart Connected Manufacturing Systems allison.barnardfeeney@nist.gov
 
 ## Related Material
-- Thurman TR, Trainer AG, Barnard Feeney A, Hardwick M, Hedlind M, Astheimer, R (2024) Recommendations for Universally Unique Identifiers in Product Data Standards. (National Institute of Standards and Technology, Gaithersburg, MD), NIST AMS 300-12.[https://doi.org/10.6028/NIST.AMS.300-12](https://doi.org/10.6028/NIST.AMS.300-12)
+- Thurman TR, Trainer AG, Barnard Feeney A, Hardwick M, Hedlind M, Astheimer, R (2024) Recommendations for Universally Unique Identifiers in Product Data Standards. (National Institute of Standards and Technology, Gaithersburg, MD), NIST AMS 300-12. [https://doi.org/10.6028/NIST.AMS.300-12](https://doi.org/10.6028/NIST.AMS.300-12)
 
 ## Referenced Standards
 - ISO 10303 Industrial automation systems and integration -- Product data presentation and exchange
-- ANSI Quality Information Framework Standard v3.0, Dimensional Metrology Standards Consortium
+- [ANSI Quality Information Framework Standard v3.0](https://qifstandards.org/download/), [Dimensional Metrology Standards Consortium](https://qifstandards.org/overview/)
 - [Recommended Practices for Persistent IDs for Design Iteration and Downstream Exchange](https://www.mbx-if.de/documents/rec_pracs_PID_v1.pdf)
-- MTConnect version 2.2, MTConnect Institute
+- MTConnect version 2.2, MTConnect Institute [https://www.mtconnect.org/s/ANSI_MTC1_4-2018.pdf](https://www.mtconnect.org/standard-download20181)
 
 ## Related NIST Projects
-- [Manufacturing](https://www.nist.gov/manufacturing)
-- [Smart Manufacturing](https://www.nist.gov/smart-manufacturing)
-- [Standards](https://www.nist.gov/documentary-standards)
+- [Manufacturing](https://www.nist.gov/manufacturing) projects at NIST
+- [Smart Manufacturing](https://www.nist.gov/smart-manufacturing) Programs and Research at NIST
+- Overview of [Dcoumentary Standards](https://www.nist.gov/documentary-standards)
 
 <!-- References -->
 
