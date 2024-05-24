@@ -31,7 +31,7 @@
 categories:
   # - ai-ml
   # - performance-and-workflow
-  - scientific-software
+  # - scientific-software
   # - simulation
   # - tools
   # - visualization
@@ -182,10 +182,10 @@ themes:
   #     - Factory operations planning and control
        - Interoperability in manufacturing
   #     - Machining
-  #     - Manufacturing systems design and analysis
+       - Manufacturing systems design and analysis
   #     - Monitoring, diagnostics and prognostics
        - Process improvement
-  #     - Process measurement and control
+       - Process measurement and control
        - Product data
        - Quality assurance
   #     - Robotics in manufacturing
