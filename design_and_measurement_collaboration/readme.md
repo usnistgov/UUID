@@ -1,4 +1,4 @@
-This directory contains data used during the design and measurement collaboration example. Each directory contains files exported from native CAD (CATIA V5, Creo, and NX) to .stp with assigned UUIDs for each of four  design iterations described below.
+This directory contains data used during the design and measurement collaboration example. Each directory contains files exported from native CAD (CATIA V5, Creo, and NX) to .stp (ISO 10303-21, Clear text encoding of the exchange structure) based on the long-form EXPRESS schema. The features within the .stp files were assigned UUIDs for each of four design iterations.
 
 Default organization:
 Each source file will have its own subdirectory (by the basename of the file).
