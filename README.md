@@ -1,5 +1,6 @@
 ## Purpose
-This is a repository for data collected in the investigation of UUIDs for a standards-based digital thread of product data. The publication is available free from charge at [https://doi.org/10.6028/NIST.AMS.300-12](https://doi.org/10.6028/NIST.AMS.300-12)
+This repository contains a dataset used in the investigation of Universally Unique Identifiers (UUIDs) that will enable a standards-based digital thread of product data. Included are the long-form EXPRESS schema that includes new EXPRESS constructs proposed in this research (based on ISO 10303-242, Managed model-based 3D engineering) used for trial implementation.
+The publication is available free from charge at [https://doi.org/10.6028/NIST.AMS.300-12](https://doi.org/10.6028/NIST.AMS.300-12)
 
 ## Contact Information
 - Rosemary Astheimer, NIST Communications Technology Laboratory, Smart Connected Manufacturing Systems rosemary.astheimer@nist.gov
